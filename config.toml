@@ -1,0 +1,28 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Simple Static Website"
+
+theme = "paperback"
+
+[params]
+
+# your name to display by the copyright sign
+# default: undefined
+AuthorName = "Firstname Lastname"
+
+# tagline to show beneath homepage h1
+# default: undefined
+Tagline = "The most simple, most static site!"
+
+# number of posts to show on index
+# default: 10
+HomepagePosts = 3
+
+# default: undefined
+# GithubUsername = "damiencaselli"
+
+# default: undefined
+# TwitterUsername = "damiencaselli"
+
+# default: undefined
+# LinkedInUsername = "damiencaselli"
